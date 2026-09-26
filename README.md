@@ -1,23 +1,44 @@
-# Hi, I'm Héctor Claro 👋
+<div align="center">
 
-**Software engineer · Development lead · AI-assisted development**
+# Héctor Claro 👋
 
-I build software and help teams deliver it well. My background spans software development, project coordination, and technical leadership; today, I'm especially interested in practical ways to integrate AI into engineering workflows and applications.
+### Software Engineer · Development Lead · Applied AI
 
-## What I work on
+**I build software, lead development teams, and explore practical ways to make engineering better with AI.**
 
-- **Software engineering:** Web applications and backend systems with Angular, TypeScript, Node.js, NestJS, Laravel, PHP, .NET, SQL Server, and PostgreSQL.
-- **Technical leadership:** Coordinating development work, collaborating across teams, and improving delivery processes.
-- **Applied AI:** Agentic development, LLM integrations, tool calling, local models, and AI-assisted testing and code review.
+📍 Barranquilla, Colombia &nbsp;·&nbsp; 🎓 Systems Engineer · MBA in progress
 
-## Experience at a glance
+[Explore my work](https://github.com/hlclarog?tab=repositories) · [Connect on GitHub](https://github.com/hlclarog)
 
-I coordinate software development at **Soft-G.Net** and am a co-founder and development coordinator at **HHSoftware Soluciones Tecnológicas y Educativas**. Earlier, I worked on academic platforms, web systems, and software for higher-education operations.
+</div>
 
-I hold a degree in **Systems Engineering** and am pursuing an **MBA**.
+---
 
-## Let's connect
+### What I bring to the table
 
-Explore my [repositories](https://github.com/hlclarog?tab=repositories) or reach out through [GitHub](https://github.com/hlclarog).
+| 🧩 Build | 🤝 Lead | 🤖 Explore |
+| :--- | :--- | :--- |
+| Web applications, backend systems, and data-driven solutions. | Development coordination, teamwork, and better delivery processes. | AI agents, LLM integrations, local models, and AI-assisted engineering. |
 
-<sub>Based in Barranquilla, Colombia.</sub>
+### My toolkit
+
+| Area | Tools and technologies |
+| :--- | :--- |
+| **Frontend** | Angular · TypeScript · JavaScript · Next.js |
+| **Backend** | Node.js · NestJS · Laravel · PHP · .NET · C# |
+| **Data** | PostgreSQL · SQL Server |
+| **AI & developer tools** | OpenAI API · Anthropic API · MCP · Ollama · Docker · AI-assisted TDD |
+
+### The path so far
+
+I coordinate software development at **Soft-G.Net** and am a co-founder and development coordinator at **HHSoftware Soluciones Tecnológicas y Educativas**. My earlier work in higher education included academic platforms, web systems, and operational software.
+
+> Good software is more than code: it takes clear thinking, collaboration, and a willingness to keep learning.
+
+<div align="center">
+
+**Have a project or an idea to discuss?**
+
+[See what I'm building →](https://github.com/hlclarog?tab=repositories)
+
+</div>
